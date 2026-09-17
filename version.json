@@ -1,11 +1,15 @@
 {
-  "version": "10.0.1.0",
+  "version": "10.0.2.0",
   "download_url": "https://raw.githubusercontent.com/ItIsInx/XerinChecker/refs/heads/main/update.zip",
   "mandatory": true,
   "password": "Xerin",
   "changelog": [
-    "Fixed ControlFlow protection issues in Xerin.Protections",
-    "Optimized XVM instruction translation",
-    "General stability and performance improvements"
+    "⚙️ XerinFuscator G3:",
+    "• Added: Standalone installer for 'Program Files' deployment alongside a silent auto-update engine.",
+    "",
+    "🧩 Secure Strings:",
+    "• Improved: String Encryption engine with hardened anti-dynamic analysis resilience and polymorphic call site mutation.",
+    "• Improved: String table decoding throughput with zero stack inspection overhead.",
+    "• Fixed: Runtime dispatcher stability and string decoding reliability across all CLR environments."
   ]
 }
