@@ -2,7 +2,7 @@
   "version": "10.0.2.0",
   "download_url": "https://raw.githubusercontent.com/ItIsInx/XerinChecker/refs/heads/main/update.zip",
   "mandatory": true,
-  "password": "Xerin",
+  "password": "",
   "changelog": [
     "⚙️ XerinFuscator G3:",
     "• Added: Standalone installer for 'Program Files' deployment alongside a silent auto-update engine.",
