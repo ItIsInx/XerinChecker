@@ -1,15 +1,28 @@
 {
-  "version": "10.0.2.0",
-  "download_url": "https://github.com/ItIsInx/XerinChecker/raw/refs/heads/main/update.zip",
+  "version": "10.0.3.0",
+  "download_url": "https://github.com/ItIsInx/XerinChecker/releases/download/v10.0.3.0/update.zip",
   "mandatory": true,
   "password": "",
   "changelog": [
-    "⚙️ XerinFuscator G3:",
-    "• Added: Standalone installer for 'Program Files' deployment alongside a silent auto-update engine.",
+    "**Xerinfuscator v10.0.3.0 released**                Aug 20th, 2026",
     "",
-    "🧩 Secure Strings:",
-    "• Improved: String Encryption engine with hardened anti-dynamic analysis resilience and polymorphic call site mutation.",
-    "• Improved: String table decoding throughput with zero stack inspection overhead.",
-    "• Fixed: Runtime dispatcher stability and string decoding reliability across all CLR environments."
+    "🧬 **Code Virtualization**",
+    "↓",
+    "**VM**",
+    "↓",
+    "**Improvements** ↘",
+    "• **Runtime Virtualization Pipeline:** Enhanced instruction stream protection and metadata pipeline orchestration across modern .NET Core / .NET targets",
+    "• **Core Engine Interoperability:** Broadened end-to-end multi-layer protection matrix and envelope ciphering compatibility across unified target platforms",
+    "• **Environmental Resiliency:** Refined telemetry analysis heuristics to reduce false-positive mitigations across monitored execution contexts",
+    "• **Enhanced Anti-Tamper & Analysis Defenses**: Strengthened core protection layers against automated deobfuscation and reverse-engineering frameworks.",
+    "• **Improved Code & Resource Cryptography**: Upgraded dynamic data security and runtime payload packing mechanisms.",
+    "• **Optimized Execution Pipeline**: Enhanced runtime polymorphism to disrupt static pattern recognition.",
+    "↓",
+    "**Fixes** ↘",
+    "• **Execution Flow Alignment:** Resolved an issue where initialization call sequences in entry routines were inadvertently decoupled during binary packing",
+    "• **Cross-Framework Runtime Initialization:** Addressed potential bootstrap-phase termination when initializing runtime components on modern CLR hosting environments",
+    "• **Native Subsystem Stability:** Fixed intermittent assertion discrepancies during core low-level runtime verification passes",
+    "• **Module Bootstrapping**: Fixed an issue with static type constructor initialization under specific runtime environments.",
+    "• **Stability & Performance**: General optimizations to ensure 100% application stability and runtime performance."
   ]
 }
