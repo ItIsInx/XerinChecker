@@ -2,8 +2,8 @@
   "version": "10.0.8.0",
   "download_url": "https://github.com/ItIsInx/XerinChecker/releases/download/v10.0.8.0/update.rar",
   "mandatory": true,
-  "password":  "3H8mLoThWIeh6ahE+FNQvctrUSCTXn4T4sLFVJzFRT4=",
-  "sha256":  "D865C4A5F7E28E5C9B0D57538EB4D5B981D7AAAC1015F440137EDA1676EC3653",
+  "password": "3H8mLoThWIeh6ahE+FNQvctrUSCTXn4T4sLFVJzFRT4=",
+  "sha256": "D865C4A5F7E28E5C9B0D57538EB4D5B981D7AAAC1015F440137EDA1676EC3653",
   "changelog": [
     "**Xerinfuscator v10.0.8.0 released**                `Oct 12th, 2026`",
     "",
@@ -25,6 +25,5 @@
     "`Fixes` ↘",
     "• **UAC Manifest Preservation:** Embedded UAC manifest is preserved, with `requireAdministrator` applied when required",
     "• **Assembly Metadata Compatibility:** `Assembly.GetEntryAssembly()` and `Assembly.Location` no longer return null/empty under in-memory load"
-]
-
-  
+  ]
+}
